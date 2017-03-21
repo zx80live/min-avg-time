@@ -27,7 +27,8 @@ Usage
 `./bin/activator "runMain com.zx80live.avg.AvgSolverApp"`
 
 **5**) Enter first parameter `N` within prompt and second parameters `Ti Li`. After that the programs will print the min avg time for the entered list. See below screenshot for example.
-![picture tag](https://raw.githubusercontent.com/username/projectname/branch/path/to/s_avg_1.png)
+
+![picture tag](https://raw.githubusercontent.com/zx80live/zx80live.github.io/master/img/s_avg_1.png)
 
 
 Algorithm descriptions
